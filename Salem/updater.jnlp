@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
-<jnlp spec="1.0+" codebase="http://DonnEssime.github.io/Salem" href="updater.jnlp">
+<jnlp spec="1.0+" codebase="http://Hoender.github.io/Salem" href="updater.jnlp">
   <information>
     <title>Custom Salem Updater</title>
-    <vendor>Latikai</vendor>
+    <vendor>Juda</vendor>
     <description>The Salem game</description>
     <icon href="http://game.salemthegame.com/java/icon.gif" />
     <shortcut online="false">
